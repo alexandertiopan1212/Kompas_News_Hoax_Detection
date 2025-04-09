@@ -110,11 +110,14 @@ GitHub: [alexandertiopan1212](https://github.com/alexandertiopan1212)
 
 ## 📁 Repository Structure
 
-Kompas_News_Hoax_Detection/ │ ├── dataset_kompas_4k_cleaned.xlsx ├── dataset_turnbackhoax_10_cleaned.xlsx ├── stopwordbahasa.csv ├── main.ipynb └── README.md <-- (you're here)
+Kompas_News_Hoax_Detection/
+│
+├── dataset_kompas_4k_cleaned.xlsx
+├── dataset_turnbackhoax_10_cleaned.xlsx
+├── stopwordbahasa.csv
+├── main.ipynb
+└── README.md
 
-yaml
-Copy
-Edit
 
 ---
 
