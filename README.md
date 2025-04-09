@@ -109,7 +109,7 @@ GitHub: [alexandertiopan1212](https://github.com/alexandertiopan1212)
 ---
 
 ## 📁 Repository Structure
-
+```
 Kompas_News_Hoax_Detection/
 │
 ├── dataset_kompas_4k_cleaned.xlsx
@@ -117,7 +117,7 @@ Kompas_News_Hoax_Detection/
 ├── stopwordbahasa.csv
 ├── main.ipynb
 └── README.md
-
+```
 
 ---
 
